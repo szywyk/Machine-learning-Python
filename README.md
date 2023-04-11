@@ -1,2 +1,2 @@
-# ml-python
-FreeCodeCamp's course of Machine Learning with Python projects
+# Machine learning projects with Python
+Links to Google Colab and Kaggle notebooks:
