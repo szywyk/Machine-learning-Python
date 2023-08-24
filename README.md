@@ -6,4 +6,5 @@ Links to Google Colab and Kaggle notebooks:
 * Bird classification - no transfer learning - just image augmentation 65%: <https://www.kaggle.com/code/szymonio/birds-classification-augmented>
 
 Model using transfer learning with EfficientNetV2 as base model was used in bird species recognition app available at: <https://szywyk.github.io/mybirdie-app/>
+
 Application code available at: <https://github.com/szywyk/mybirdie-app>
